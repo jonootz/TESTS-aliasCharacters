@@ -1,3 +1,28 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CatapultAliasFile>
+    <Map Name="NEW" Link="/Content/1_StartsWithNumber.htm" />
+    <Map Name="NEW1" Link="/Content/Ampersand&amp;ampersand.htm" />
+    <Map Name="NEW2" Link="/Content/Apostrophe'apostrophe.htm" />
+    <Map Name="NEW3" Link="/Content/At@at.htm" />
+    <Map Name="NEW4" Link="/Content/Brackets1[brackets1].htm" />
+    <Map Name="NEW5" Link="/Content/Brackets2{brackets2}.htm" />
+    <Map Name="NEW6" Link="/Content/Caret^caret.htm" />
+    <Map Name="NEW7" Link="/Content/Cent¢cent.htm" />
+    <Map Name="NEW8" Link="/Content/Comma,comma.htm" />
+    <Map Name="NEW9" Link="/Content/Dollar$dollar.htm" />
+    <Map Name="NEW10" Link="/Content/Equals=equals.htm" />
+    <Map Name="NEW11" Link="/Content/Euro€euro.htm" />
+    <Map Name="NEW12" Link="/Content/Exclamation!exclamation.htm" />
+    <Map Name="NEW13" Link="/Content/Hyphen-hyphen.htm" />
+    <Map Name="NEW14" Link="/Content/Parens(parens).htm" />
+    <Map Name="NEW15" Link="/Content/Period.period.htm" />
+    <Map Name="NEW16" Link="/Content/Plus+plus.htm" />
+    <Map Name="NEW17" Link="/Content/Pound£pound.htm" />
+    <Map Name="NEW18" Link="/Content/Semi;colon.htm" />
+    <Map Name="NEW19" Link="/Content/Space space.htm" />
+    <Map Name="NEW20" Link="/Content/Tilda~tilda.htm" />
+    <Map Name="NEW21" Link="/Content/Topic.htm" />
+    <Map Name="NEW22" Link="/Content/Yen¥yen.htm" />
+    <Map Name="NEW23" Link="/Content/Âçøæñ_5EuropeanCharacters.htm" />
+    <Map Name="NEW24" Link="/Content/発送重量_JapaneseCharacters.htm" />
 </CatapultAliasFile>
